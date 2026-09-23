@@ -4,7 +4,7 @@
 
 ### `~ / whoami`
 
-I'm **Wenhao XU**, a **Computer Science PhD student at Université de Montréal**, working on **rule alignment for language models**.
+I'm **Wenhao XU**, a **Machine Learning PhD student at Université de Montréal & Mila**, working on **rule alignment for language models**.
 
 Do models actually use the rules we give them? I study how explicit rules shape model decisions, with an eye toward AI we can understand and trust.
 
