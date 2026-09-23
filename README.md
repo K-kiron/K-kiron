@@ -1,18 +1,33 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Wenhao XU — Rule alignment. Toward trustworthy AI." width="100%">
+  <img src="./assets/header.svg" alt="K-kiron / Wenhao XU — Understand the model. Build the missing tool." width="100%">
 </p>
 
-I'm a **PhD student in Computer Science at Université de Montréal**, working on **rule alignment for language models**.
+### `~ / whoami`
 
-I study how models interpret and apply explicit rules, and how to tell whether those rules actually drive their decisions. My goal is to help make AI systems more reliable, understandable, and worthy of trust.
+I'm **Wenhao XU**, a **Computer Science PhD student at Université de Montréal**, working on **rule alignment for language models**.
 
-**Research interests**<br>
-AI Safety &nbsp;·&nbsp; Alignment &nbsp;·&nbsp; Trustworthy AI &nbsp;·&nbsp; Mechanistic Interpretability
+Do models actually use the rules we give them? I study how explicit rules shape model decisions, with an eye toward AI we can understand and trust.
 
-## Beyond research
+**AI Safety** &nbsp;·&nbsp; **Alignment** &nbsp;·&nbsp; **Trustworthy AI** &nbsp;·&nbsp; **Mechanistic Interpretability**
 
-I also build practical software and open-source tools, including [TaxAgent](https://github.com/K-kiron/TaxAgent) and [ReviewBudget](https://github.com/K-kiron/ReviewBudget).
+### `~ / skills`
+
+I build open-source agent skills that turn "looks good" into something you can inspect, replay, or challenge.
+
+| Skill | What it does |
+| :--- | :--- |
+| [**RageClick**](https://github.com/K-kiron/RageClick) | Break a web app like an impatient user. Replay the failure. |
+| [**SkillClash**](https://github.com/K-kiron/SkillClash) | Find conflicting agent instructions. Trace them to the source. |
+| [**RepoQuest**](https://github.com/K-kiron/RepoQuest) | Turn a real bug into a playable debugging mystery. |
+| [**PaperCourt**](https://github.com/K-kiron/PaperCourt) | Put empirical ML claims on trial against their evidence. |
+| [**ProveIt**](https://github.com/K-kiron/ProveIt) | Check that a regression test actually catches the bug. |
+
+<sub><a href="https://k-kiron.github.io/RepoQuest/">Play RepoQuest →</a> &nbsp;·&nbsp; <a href="https://k-kiron.github.io/RageClick/">Watch RageClick →</a></sub>
+
+### `~ / also-building`
+
+[**TaxAgent**](https://github.com/K-kiron/TaxAgent) — local tax preparation &nbsp; / &nbsp; [**ReviewBudget**](https://github.com/K-kiron/ReviewBudget) — pull request verification planning.
 
 ---
 
-<sub>Montreal &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/k-kiron/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/K-kiron?tab=repositories">Explore my work</a></sub>
+<sub>Montreal &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/k-kiron/">LinkedIn</a> &nbsp; / &nbsp; <a href="https://github.com/K-kiron?tab=repositories">All repositories ↗</a></sub>
