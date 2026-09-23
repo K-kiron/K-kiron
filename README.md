@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=2" alt="K-kiron / Wenhao XU — Understand the model. Build the missing tool." width="100%">
+  <img src="./assets/terminal.svg" alt="K-kiron / Wenhao XU — Understand the model. Build the missing tool." width="100%">
 </p>
 
 ### `~ / whoami`
