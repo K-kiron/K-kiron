@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="./assets/terminal.svg" alt="K-kiron / Wenhao XU — Understand the model. Build the missing tool." width="100%">
+  <a href="https://k-kiron-terminal.k-iron.chatgpt.site">
+    <img src="./assets/terminal-entry.svg" alt="Open K-kiron's interactive research terminal — explore research, skills, and model pathways." width="100%">
+  </a>
 </p>
+
+<p align="center"><a href="https://k-kiron-terminal.k-iron.chatgpt.site">Open interactive terminal ↗</a> &nbsp;·&nbsp; <sub>Try <code>research</code> or <code>skills</code>, then trace a decision.</sub></p>
 
 ### `~ / whoami`
 
