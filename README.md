@@ -4,15 +4,23 @@
   </a>
 </p>
 
-<p align="center"><a href="https://k-kiron.github.io/">Open interactive terminal ↗</a> &nbsp;·&nbsp; <sub>Try <code>research</code> or <code>skills</code>, then trace a decision.</sub></p>
+<p align="center"><a href="https://k-kiron.github.io/">Open interactive terminal ↗</a> &nbsp;·&nbsp; <sub>Ask about my work, explore <code>skills</code>, or trace a decision.</sub></p>
 
 ### `~ / whoami`
 
-I'm **Wenhao XU**, a **Machine Learning PhD student at Université de Montréal & Mila**, working on **rule alignment for language models**.
+I'm **Wenhao XU**, an **AI/ML PhD student at Université de Montréal & Mila**, working on **rule alignment for language models**.
 
 Do models actually use the rules we give them? I study how explicit rules shape model decisions, with an eye toward AI we can understand and trust.
 
 **AI Safety** &nbsp;·&nbsp; **Alignment** &nbsp;·&nbsp; **Trustworthy AI** &nbsp;·&nbsp; **Mechanistic Interpretability**
+
+### `~ / now`
+
+I turn questions about model behavior into experiments, and recurring development problems into tools. Lately, that means:
+
+- **Verification tools.** Inspect agent and automation behavior, replay failures, and check whether a test catches the bug.
+- **Human–computer interaction.** Prototype ways to switch between tasks and pick up where you left off.
+- **Creative coding.** Build small 3D browser experiences around exploration and memory.
 
 ### `~ / skills`
 
@@ -20,17 +28,23 @@ I build open-source agent skills that turn "looks good" into something you can i
 
 | Skill | What it does |
 | :--- | :--- |
-| [**RageClick**](https://github.com/K-kiron/RageClick) | Break a web app like an impatient user. Replay the failure. |
+| [**RepoQuest**](https://github.com/K-kiron/RepoQuest) | Investigate a Python bug in an offline case, then reveal the tested fix. |
+| [**RageClick**](https://github.com/K-kiron/RageClick) | Replay impatient-user failures in local web apps. |
+| [**ProveIt**](https://github.com/K-kiron/ProveIt) | Run the same regression test before and after a fix. |
 | [**SkillClash**](https://github.com/K-kiron/SkillClash) | Find conflicting agent instructions. Trace them to the source. |
-| [**RepoQuest**](https://github.com/K-kiron/RepoQuest) | Turn a real bug into a playable debugging mystery. |
 | [**PaperCourt**](https://github.com/K-kiron/PaperCourt) | Put empirical ML claims on trial against their evidence. |
-| [**ProveIt**](https://github.com/K-kiron/ProveIt) | Check that a regression test actually catches the bug. |
 
 <sub><a href="https://k-kiron.github.io/RepoQuest/">Play RepoQuest →</a> &nbsp;·&nbsp; <a href="https://k-kiron.github.io/RageClick/">Watch RageClick →</a></sub>
 
 ### `~ / also-building`
 
-[**TaxAgent**](https://github.com/K-kiron/TaxAgent) — local tax preparation &nbsp; / &nbsp; [**ReviewBudget**](https://github.com/K-kiron/ReviewBudget) — pull request verification planning.
+[**TaxAgent**](https://github.com/K-kiron/TaxAgent) — local PDF intake and return preparation for supported Quebec/federal salary and student cases.
+
+[**ReviewBudget**](https://github.com/K-kiron/ReviewBudget) — plan pull request checks around an explicit verification budget.
+
+### `~ / upstream`
+
+[**freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp/pull/70294) — clearer Python curriculum hints, merged. &nbsp;·&nbsp; [**pytest**](https://github.com/pytest-dev/pytest/pull/15087) — proposed fix for warning-filter precedence across test scopes.
 
 ---
 
