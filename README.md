@@ -18,9 +18,18 @@ Do models actually use the rules we give them? I study how explicit rules shape 
 
 I turn questions about model behavior into experiments, and recurring development problems into tools. Lately, that means:
 
-- **Verification tools.** Inspect agent and automation behavior, replay failures, and check whether a test catches the bug.
-- **Human–computer interaction.** Prototype ways to switch between tasks and pick up where you left off.
-- **Creative coding.** Build small 3D browser experiences around exploration and memory.
+- **Privacy & trustworthy systems.** Build local text de-identification tools and evaluate detection coverage and downstream utility separately.
+- **Agent workflows.** Make execution timelines, verification, and handoffs easier to inspect across development tools.
+- **Interaction experiments.** Explore task resumption, editing interfaces, and small 3D browser experiences.
+
+### `~ / building`
+
+| Project | What it does |
+| :--- | :--- |
+| [**Runward**](https://github.com/K-kiron/runward) | A local desk for coding-agent activity, execution timelines, transcript inspection, and handoffs. |
+| [**ContextVeil**](https://github.com/K-kiron/contextveil) | Local text de-identification with consistent entity replacements and reproducible privacy/utility evaluations. |
+
+[**TaxAgent**](https://github.com/K-kiron/TaxAgent) — local return preparation for supported Quebec/federal salary and student cases. &nbsp;·&nbsp; [**ReviewBudget**](https://github.com/K-kiron/ReviewBudget) — plan pull request verification around an explicit budget.
 
 ### `~ / skills`
 
@@ -35,12 +44,6 @@ I build open-source agent skills that turn "looks good" into something you can i
 | [**PaperCourt**](https://github.com/K-kiron/PaperCourt) | Put empirical ML claims on trial against their evidence. |
 
 <sub><a href="https://k-kiron.github.io/RepoQuest/">Play RepoQuest →</a> &nbsp;·&nbsp; <a href="https://k-kiron.github.io/RageClick/">Watch RageClick →</a></sub>
-
-### `~ / also-building`
-
-[**TaxAgent**](https://github.com/K-kiron/TaxAgent) — local PDF intake and return preparation for supported Quebec/federal salary and student cases.
-
-[**ReviewBudget**](https://github.com/K-kiron/ReviewBudget) — plan pull request checks around an explicit verification budget.
 
 ### `~ / upstream`
 
