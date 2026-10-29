@@ -28,8 +28,8 @@ I turn questions about model behavior into experiments, and recurring developmen
 | :--- | :--- |
 | [**Runward**](https://github.com/K-kiron/runward) | A local desk for coding-agent activity, execution timelines, transcript inspection, and handoffs. |
 | [**ContextVeil**](https://github.com/K-kiron/contextveil) | Local text de-identification with consistent entity replacements and reproducible privacy/utility evaluations. |
-
-[**TaxAgent**](https://github.com/K-kiron/TaxAgent) — local return preparation for supported Quebec/federal salary and student cases. &nbsp;·&nbsp; [**ReviewBudget**](https://github.com/K-kiron/ReviewBudget) — plan pull request verification around an explicit budget.
+| [**TaxAgent**](https://github.com/K-kiron/TaxAgent) | Local return preparation for supported Quebec/federal salary and student cases. |
+| [**ReviewBudget**](https://github.com/K-kiron/ReviewBudget) | Plan pull request verification around an explicit budget. |
 
 ### `~ / skills`
 
