@@ -19,14 +19,15 @@ Do models actually use the rules we give them? I study how explicit rules shape 
 I turn questions about model behavior into experiments, and recurring development problems into tools. Lately, that means:
 
 - **Privacy & trustworthy systems.** Build local text de-identification tools and evaluate detection coverage and downstream utility separately.
-- **Agent workflows.** Make execution timelines, verification, and handoffs easier to inspect across development tools.
+- **Agent workflows.** Build persistent coding-agent missions with explicit limits, verification, review, and inspectable execution histories.
 - **Interaction experiments.** Explore task resumption, editing interfaces, and small 3D browser experiences.
 
 ### `~ / building`
 
 | Project | What it does |
 | :--- | :--- |
-| [**Runward**](https://github.com/K-kiron/runward) | A local desk for coding-agent activity, execution timelines, transcript inspection, and handoffs. |
+| [**DutyLoop**](https://github.com/K-kiron/dutyloop) | Persistent coding-agent missions with discovery, implementation, checks, and review under explicit limits. Alpha. |
+| [**Runward**](https://github.com/K-kiron/runward) | Local coding-agent activity and timelines, with scoped transcript collection, attention requests, and handoffs. |
 | [**ContextVeil**](https://github.com/K-kiron/contextveil) | Local text de-identification with consistent entity replacements and reproducible privacy/utility evaluations. |
 | [**TaxAgent**](https://github.com/K-kiron/TaxAgent) | Local return preparation for supported Quebec/federal salary and student cases. |
 | [**ReviewBudget**](https://github.com/K-kiron/ReviewBudget) | Plan pull request verification around an explicit budget. |
